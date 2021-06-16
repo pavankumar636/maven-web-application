@@ -9,10 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Jenkins( First Project created Successfully </h1>
-<h1 align="center"> pipleline</h1>
-<h2 align="center"> jenkins----> git HUB -----> sonarqube ----> nexus-----> tomcat ---- > </h2>	
-<h1 align="center"> Successfully Implemented First Jenkins pipeline ( took 10 hrs 😂😂 </h1>
+<h1 align="center">Welcome to Jenkins( First Project created Successfully) </h1>
+<h1 align="center"> Pipeline </h1>
+<h2 align="center"> Jenkins----> Git-HUB -----> SonarQube ----> Nexus-----> Tomcat ---- > </h2>	
+<h1 align="center"> Successfully Implemented First Jenkins Pipeline ( took 10 hrs 😂😂 </h1>
 	
 <hr>
 <div style="text-align: center;">
