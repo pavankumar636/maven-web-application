@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Jenkins( First Project created Successfully) </h1>
 <h1 align="center"> Pipeline </h1>
-<h2 align="center"> Jenkins----> Git-HUB -----> SonarQube ----> Nexus-----> Tomcat ---- > </h2>	
+<h2 align="center"> Jenkins----> Git-HUB-WebHook -----> SonarQube ----> Nexus-----> Tomcat ---- > </h2>	
 <h1 align="center"> Successfully Implemented First Jenkins Pipeline ( took 10 hrs 😂😂 </h1>
 	
 <hr>
