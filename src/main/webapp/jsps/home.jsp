@@ -12,8 +12,9 @@
 <h1 align="center">Welcome to Jenkins( First Project created Successfully) </h1>
 <h1 align="center"> Pipeline </h1>
 <h2 align="center"> Jenkins----> Git-HUB-WebHook -----> SonarQube ----> Nexus-----> Tomcat ---- > </h2>	
-<h1 align="center"> Successfully Implemented First Jenkins Pipeline ( took 10 hrs 😂😂 </h1>
-	<h1> This is email update check for jenkins integration  </h1>	
+<h1 align="center"> Successfully Implemented First Jenkins Pipeline ( took 10 hrs 😂😂 )</h1>
+	<h1> This is email update check for jenkins integration - Not working </h1>	
+	<h1> Jacoco Plugin Testing--code coverage report for J unit test cases. </h1>	
 <hr>
 <div style="text-align: center;">
 	
