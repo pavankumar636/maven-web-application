@@ -15,6 +15,7 @@
 <h1 align="center"> Successfully Implemented First Jenkins Pipeline ( took 10 hrs 😂😂 )</h1>
 	<h1> This is email update check for jenkins integration - Not working </h1>	
 	<h1> Jacoco Plugin Testing--code coverage report for J unit test cases. </h1>	
+	<h1> Testing other plugins </h1>
 <hr>
 <div style="text-align: center;">
 	
