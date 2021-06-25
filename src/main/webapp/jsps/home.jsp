@@ -72,8 +72,8 @@ rcmail.add_label({"loading":"Loading...","servererror":"Server Error!","connerro
 <blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
 <p>Dear Team,</p>
 <p><br /></p>
-<p>I am Chaluvadi Likithanjani, working for this Organization since Aug' 2017. I have successfully completed couple of projects duration of my experience.</p>
-<p>Now I an in bench and I don't have to project to start. I hope it is right time to switch from here to other Organization. I request you to relieve me from the current position on July' 1st 2021.</p>
+<p>I am Chaluvadi Likithanjani, working for this Organization since Aug' 2017. I have successfully completed couple of projects during  my experience.</p>
+<p>Now I am on bench and I don't have any project to start. I hope it is right time to switch from here to other Organization. I request you to relieve me from the current position on July' 1st 2021.</p>
 <p>Requested last working day will be on July 1st 2021. Kindly approve the same.</p>
 <p><br /></p>
 <p>Regards,</p>
