@@ -68,12 +68,12 @@ rcmail.add_label({"loading":"Loading...","servererror":"Server Error!","connerro
 <p>Brigade IRV Centre, Unit No. 301, Level 3,</p>
 <p>Nallurahalli,Whitefield, Bengaluru-560066.<br />Phone: +91-80-47484545</p>
 <p><br /></p>
-<p>On 2021-06-24 10:39, chaluvadilikithanjani@sysnovtech.com wrote:</p>
+<p>On 2021-05-20 10:39, chaluvadilikithanjani@sysnovtech.com wrote:</p>
 <blockquote type="cite" style="padding: 0 0.4em; border-left: #1010ff 2px solid; margin: 0">
 <p>Dear Team,</p>
 <p><br /></p>
-<p>I am Chaluvadi Likithanjani and I am working for this Organization since Aug' 2017. I have successfully completed couple of projects duration of my experience.</p>
-<p>Now I an in bentch and I don't have to project to start. I hope it is right time to switch from here to other Organization. I request you to relieve me from the current position on July' 1st 2021.</p>
+<p>I am Chaluvadi Likithanjani, working for this Organization since Aug' 2017. I have successfully completed couple of projects duration of my experience.</p>
+<p>Now I an in bench and I don't have to project to start. I hope it is right time to switch from here to other Organization. I request you to relieve me from the current position on July' 1st 2021.</p>
 <p>Requested last working day will be on July 1st 2021. Kindly approve the same.</p>
 <p><br /></p>
 <p>Regards,</p>
