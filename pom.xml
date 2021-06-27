@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>pavan-tech-release </name>
-	      <url>http://3.7.65.196:8081/repository/Smart-java_Release/</url>
+	      <url>http://15.207.89.118:8081/repository/Smart-java_Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>pavan-tech-snapshot </name>
-	      <url>http://3.7.65.196:8081/repository/Smart_Snapshot/</url>
+	      <url>http://15.207.89.118:8081/repository/Smart_Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
