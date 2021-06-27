@@ -1,0 +1,29 @@
+node{
+    
+    properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '', numToKeepStr: '1')), pipelineTriggers([githubPush()])])
+def mavenHome = tool name:"Maven 3.8.1" 
+stage('GitHub'){
+    git branch: 'development ', credentialsId: '32785f46-7e26-4c91-b360-4272d6534dfb', url: 'https://github.com/pavankumar636/maven-web-application.git' 
+}
+stage('Built-Maven'){
+    sh "${mavenHome}/bin/mvn clean package" 
+}
+stage('Sonarqube-code-QA'){
+    sh "${mavenHome}/bin/mvn sonar:sonar" 
+}
+stage('Nexus'){
+    sh "${mavenHome}/bin/mvn deploy" 
+}
+stage('tomcat webserver'){
+
+sshagent(['628d1a78-f159-4dcc-8a07-d6c20836e852']) {
+
+sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@35.154.88.86:/opt/tomcat/webapps/"
+
+} }
+stage('email'){
+    emailext body: 'Testing if the email is working or not.', subject: 'Test', to: 'pavantech.007@gmail.com'
+}
+
+
+}
