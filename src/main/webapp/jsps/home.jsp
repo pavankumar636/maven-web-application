@@ -17,20 +17,19 @@
 	<h1> Jacoco Plugin Testing--code coverage report for J unit test cases. </h1>	
 	<h1> Testing other plugins </h1>
 	
-<br> 
-<h1><h3> server side IP adress </h3><br>
+<hr>
+<br>
+	<h1><h3> Server Side IP Address </h3><br>
 
-<%
+<% 
 String ip = "";
 InetAddress inetAddress = InetAddress.getLocalHost();
-ip
-= inetAddress.getHostAddress();
-out.println("Server Host Name :: "+inetAddress.getHostName());
+ip = inetAddress.getHostAddress();
+out.println("Server Host Name :: "+inetAddress.getHostName()); 
+%>
 <br>
-%out.println ("Server IP Address"
-"+ip);%>
+<%out.println("Server IP Address :: "+ip);%>
 </h1>
-	
 <hr>
 <div style="text-align: center;">
 	
