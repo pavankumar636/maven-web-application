@@ -1,2 +1,2 @@
 FROM tomcat
-copy /target/maven-web-application*.war /user/local/tomcat/webapps/maven-web-application.war
+COPY /target/maven-web-application*.war /usR/local/tomcat/webapps/maven-web-application.war
