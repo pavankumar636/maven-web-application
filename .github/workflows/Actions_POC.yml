@@ -26,9 +26,9 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
       
-    -name: jar file is created ?
-     run: |
-       cd target 
-       ls -la
+    - name: jar file is created ?
+      run: |
+        cd target 
+        ls -la
 
 
