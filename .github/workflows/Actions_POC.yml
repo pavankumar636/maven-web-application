@@ -28,7 +28,7 @@ jobs:
       
     -name: jar file is created ?
       run: |
-          cd target 
-          ls -la
+        cd target 
+        ls -la
 
 
