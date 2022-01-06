@@ -26,4 +26,24 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 
+   Codeql-Build: 
+
+      runs-on: ubuntu-latest
+      
+      steps:
+        - name: Git code from master
+          uses: actions/checkout@v2
+
+        - name: Codeql init
+          uses: github/codeql-action/init@v1
+
+        - name: codeql build
+          uses: github/codeql-action/autobuild@v1
+        
+        - name: codeql Analysis
+          uses: github/codeql-action/analyze@v1
+
+
+      
+
 
