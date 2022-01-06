@@ -27,8 +27,8 @@ jobs:
       run: mvn -B package --file pom.xml
       
     -name: jar file is created ?
-      run: |
-        cd target 
-        ls -la
+     run: |
+       cd target 
+       ls -la
 
 
